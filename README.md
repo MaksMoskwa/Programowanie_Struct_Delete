@@ -1,0 +1,1 @@
+# Programowanie_Struct_Delete
